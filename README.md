@@ -23,7 +23,7 @@ This project involves analyzing student participation data in the school's swimm
 
 
 <img width="1218" height="679" alt="image" src="https://github.com/user-attachments/assets/c752e27c-b59c-444f-ba33-84a03997c439" />
-![Uploading image.png…]()
+
 
 
 ### Tools Uses
