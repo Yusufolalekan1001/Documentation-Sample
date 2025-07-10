@@ -22,7 +22,8 @@ This project involves analyzing student participation data in the school's swimm
 
 
 
-![Swim report jan feb](https://github.com/user-attachments/assets/e7727fe5-0c53-4ce6-a100-6d2fbce09f6d)
+![Uploading image.png…]()
+
 
 ### Tools Uses
 - **Microsoft Excel** - Data cleaning and preparation 
